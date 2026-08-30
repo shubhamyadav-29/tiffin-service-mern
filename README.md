@@ -130,5 +130,13 @@ Full route list is in `backend/routes/*.js`.
 ## Tech Stack
 React 18 · React Router · Tailwind CSS · Axios · Node.js · Express · MongoDB Atlas · Mongoose · JWT · Multer + AWS S3 · AWS SES
 
+<img width="1917" height="1032" alt="Screenshot 2026-08-29 194014" src="https://github.com/user-attachments/assets/04e3affa-c9d2-429d-ad67-660c3c17ef41" />
+<img width="1917" height="1033" alt="Screenshot 2026-08-29 194001" src="https://github.com/user-attachments/assets/ed41940f-1bfb-47c9-ab5b-5591c5509ef7" />
+<img width="1917" height="1035" alt="Screenshot 2026-08-29 193924" src="https://github.com/user-attachments/assets/f3720141-5af6-4271-aa50-773e4882b8e6" />
+<img width="1917" height="1033" alt="Screenshot 2026-08-29 193903" src="https://github.com/user-attachments/assets/032fc0ca-50fa-4f01-be1c-3428ffe4e6dd" />
 <img width="1917" height="1033" alt="Screenshot 2026-08-29 193903" src="https://github.com/user-attachments/assets/889fe5c1-cdd1-4292-a313-75efffd6ab90" />
+<img width="1916" height="1027" alt="Screenshot 2026-08-29 194404" src="https://github.com/user-attachments/assets/0188755c-f932-4b96-a5ea-870b27a12d48" />
+
+
+
 
